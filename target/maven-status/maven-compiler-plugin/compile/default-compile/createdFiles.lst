@@ -1,0 +1,10 @@
+psemantico\ExpressoesParser$ProgramaContext.class
+psemantico\ExpressoesParser$CmdContext.class
+psemantico\ExpressoesParser.class
+psemantico\ExpressoesLexer.class
+psemantico\ExpressoesListener.class
+psemantico\ExpressoesParser$TermoContext.class
+psemantico\ExpressoesBaseListener.class
+psemantico\ExpressoesBaseVisitor.class
+psemantico\ExpressoesVisitor.class
+psemantico\ExpressoesParser$ExprContext.class
